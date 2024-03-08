@@ -1,20 +1,20 @@
 /* Suzutsuki */
 /*Vertical poster*/
-[href*="characters/146159-"], [data-href*="characters/146159/"], [src*="characters/146159/"], [srcset*="characters/146159/"] {
+[href*="characters/169697-"], [data-href*="characters/169697/"], [src*="characters/169697/"], [srcset*="characters/169697/"] {
   --show-default: 0;
   --custom-image: url(https://lh3.googleusercontent.com/pw/AP1GczPWBniMgo-sdHYSFKjHtsmyw6mNr9gMnv28HUZgld1JQvqvhALyVWH4npSBC9Nh2kgpYYquySis1dGv-Jos-4BV3JqCZYZC3l5KQb2F0_Jq18TfU2kboOmwkYZ18V7a61D3avYiE0cZMQdH5emD9O6F=w614-h900-s-no-gm?authuser=0);
 }
 /* Horizontal poster */
-.p-profiles .cc-favourites .c-character a[href*="characters/146159-"] .image-cutter {
+.p-profiles .cc-favourites .c-character a[href*="characters/169697-"] .image-cutter {
     background: url(https://lh3.googleusercontent.com/pw/AP1GczOCIqufMYlX5nBVwo4b4BH2W2OFzgHvCJTupSgLShP3FECc8eSZzUGkP0xqQ1GWwoA9yUgDmYMO3p8uJ-Z6IVVgM3xZwD_VjYPoYAzsmjxRwTMwMBV70Nmcd-n78W5eIgK99Um2BxNXK2BJ4w0j6SbB=w1253-h720-s-no-gm?authuser=0) no-repeat center / cover;
 }
-.p-profiles .cc-favourites .c-character:hover a[href*="characters/146159-"] .image-cutter {
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/169697-"] .image-cutter {
     background: url(https://lh3.googleusercontent.com/pw/AP1GczMUZeTzMlejz2P7eQYVWn00x76a8do1gXCmMGXW52NCgiV5-yCx393R9lTYyKbBgOBL2no9-Uha0allOuoNxdaK9ei0gC9pxIsme-oh43We9lxoaV1n8qAsjObBVCYSPBouDkhPonql_ISwgblvo8SV=w1260-h900-s-no-gm?authuser=0) no-repeat center / cover;
 }
-.p-profiles .cc-favourites .c-character a[href*="146159-"] .image-decor::before {
+.p-profiles .cc-favourites .c-character a[href*="169697-"] .image-decor::before {
     content: "Suzutsuki";
 }
-.p-profiles .cc-favourites .c-character a[href*="146159-"] .image-cutter::before {
+.p-profiles .cc-favourites .c-character a[href*="169697-"] .image-cutter::before {
     content: "Wife";
 }
 /* Fuyutsuki */

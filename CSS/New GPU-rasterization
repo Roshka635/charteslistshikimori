@@ -1,2 +1,2 @@
-Отключить растеризацию в хроме, для лучшего отображения картинок в избранном. Скопируйте ссылку в и ставьте в адрессную строку chrome://flags/#enable-gpu-rasterization
+Отключить растеризацию в хроме, для лучшего отображения картинок в избранном. Скопируйте ссылку и вставьте в адрессную строку chrome://flags/#enable-gpu-rasterization
 Disable rasterization in Chrome for better display of pictures in favorites. Copy the link to and put it in the address bar chrome://flags/#enable-gpu-rasterization

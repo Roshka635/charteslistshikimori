@@ -1,0 +1,38 @@
+/* Surtr */
+/*Vertical poster*/
+[href*="characters/239505-"], [data-href*="characters/239505/"], [src*="characters/239505/"], [srcset*="characters/239505/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553478.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/239505-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553482.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/239505-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553477.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="239505-"] .image-decor::before {
+    content: "Surtr";
+}
+.p-profiles .cc-favourites .c-character a[href*="239505-"] .image-cutter::before {
+    content: "Beautiful wife";
+}
+/* Talulah */
+/*Vertical poster*/
+[href*="characters/219299-"], [data-href*="characters/219299/"], [src*="characters/219299/"], [srcset*="characters/219299/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553480.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/219299-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553479.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/219299-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553481.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="219299-"] .image-decor::before {
+    content: "Talulah";
+}
+.p-profiles .cc-favourites .c-character a[href*="219299-"] .image-cutter::before {
+    content: "Best horns";
+}

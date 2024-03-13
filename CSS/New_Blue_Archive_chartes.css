@@ -1,0 +1,57 @@
+/* Rio Tsukatsuki */
+/*Vertical poster*/
+[href*="characters/244156-"], [data-href*="characters/244156/"], [src*="characters/244156/"], [srcset*="characters/244156/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553443.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/244156-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553442.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/244156-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553444.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="244156-"] .image-decor::before {
+    content: "Rio Tsukatsuki";
+}
+.p-profiles .cc-favourites .c-character a[href*="244156-"] .image-cutter::before {
+    content: "Beautiful girl";
+}
+/* Aru Rikuhachima */
+/*Vertical poster*/
+[href*="characters/215644-"], [data-href*="characters/215644/"], [src*="characters/215644/"], [srcset*="characters/215644/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553437.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/215644-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553438.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/215644-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553436.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="215644-"] .image-decor::before {
+    content: "Aru Rikuhachima";
+}
+.p-profiles .cc-favourites .c-character a[href*="215644-"] .image-cutter::before {
+    content: "Beautiful girl";
+}
+/* Karin Kakudate */
+/*Vertical poster*/
+[href*="characters/203870-"], [data-href*="characters/203870/"], [src*="characters/203870/"], [srcset*="characters/203870/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553441.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/203870-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553440.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/203870-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553439.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="203870-"] .image-decor::before {
+    content: "Karin Kakudate";
+}
+.p-profiles .cc-favourites .c-character a[href*="203870-"] .image-cutter::before {
+    content: "Like chocolate,wife";
+}

@@ -1,0 +1,114 @@
+/* Kamisato Ayaka */
+/*Vertical poster*/
+[href*="characters/224257-"], [data-href*="characters/224257/"], [src*="characters/224257/"], [srcset*="characters/224257/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553657.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/224257-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553656.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/224257-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553655.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="224257-"] .image-decor::before {
+    content: "Kamisato Ayaka";
+}
+.p-profiles .cc-favourites .c-character a[href*="224257-"] .image-cutter::before {
+    content: "Wife";
+}
+/* Yoimiya */
+/*Vertical poster*/
+[href*="characters/224261-"], [data-href*="characters/224261/"], [src*="characters/224261/"], [srcset*="characters/224261/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553665.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/224261-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553664.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/224261-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553666.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="224261-"] .image-decor::before {
+    content: "Yoimiya";
+}
+.p-profiles .cc-favourites .c-character a[href*="224261-"] .image-cutter::before {
+    content: "Funny girl,wife";
+}
+/* Ningguan */
+/*Vertical poster*/
+[href*="characters/195245-"], [data-href*="characters/195245/"], [src*="characters/195245/"], [srcset*="characters/195245/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553658.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/195245-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553659.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/195245-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553660.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="195245-"] .image-decor::before {
+    content: "Ningguan";
+}
+.p-profiles .cc-favourites .c-character a[href*="195245-"] .image-cutter::before {
+    content: "Good forms,wife";
+}
+/* Seele Vollerei */
+/*Vertical poster*/
+[href*="characters/172814-"], [data-href*="characters/172814/"], [src*="characters/172814/"], [srcset*="characters/172814/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553662.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/172814-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553663.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/172814-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553661.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="172814-"] .image-decor::before {
+    content: "Seele Vollerei";
+}
+.p-profiles .cc-favourites .c-character a[href*="172814-"] .image-cutter::before {
+    content: "Funny shiza";
+}
+/* Himeko */
+/*Vertical poster*/
+[href*="characters/238037-"], [data-href*="characters/238037/"], [src*="characters/238037/"], [srcset*="characters/238037/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553650.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/238037-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553651.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/238037-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553667.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="238037-"] .image-decor::before {
+    content: "Himeko HSR";
+}
+.p-profiles .cc-favourites .c-character a[href*="238037-"] .image-cutter::before {
+    content: "Beautiful appearance";
+}
+/* Kafka */
+/*Vertical poster*/
+[href*="characters/238206-"], [data-href*="characters/238206/"], [src*="characters/238206/"], [srcset*="characters/238206/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553653.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/238206-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553652.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/238206-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553654.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="238206-"] .image-decor::before {
+    content: "Kafka HSR";
+}
+.p-profiles .cc-favourites .c-character a[href*="238206-"] .image-cutter::before {
+    content: "Best killer";
+}

@@ -1,0 +1,57 @@
+/* Miyuki Shiba */
+/*Vertical poster*/
+[href*="characters/55741-"], [data-href*="characters/55741/"], [src*="characters/55741/"], [srcset*="characters/55741/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553684.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/55741-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553685.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/55741-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553682.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="55741-"] .image-decor::before {
+    content: "Miyuki Shiba";
+}
+.p-profiles .cc-favourites .c-character a[href*="55741-"] .image-cutter::before {
+    content: "Cute sister";
+}
+/* Tatsuya Shiba */
+/*Vertical poster*/
+[href*="characters/55743-"], [data-href*="characters/55743/"], [src*="characters/55743/"], [srcset*="characters/55743/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553684.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/55743-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553686.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/55743-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553683.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="55743-"] .image-decor::before {
+    content: "Tatsuya Shiba";
+}
+.p-profiles .cc-favourites .c-character a[href*="55743-"] .image-cutter::before {
+    content: "Imba";
+}
+/* Maya Yotsuba */
+/*Vertical poster*/
+[href*="characters/106745-"], [data-href*="characters/106745/"], [src*="characters/106745/"], [srcset*="characters/106745/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2553679.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/106745-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553680.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/106745-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images/original/1141316/2553681.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="106745-"] .image-decor::before {
+    content: "Maya Yotsuba";
+}
+.p-profiles .cc-favourites .c-character a[href*="106745-"] .image-cutter::before {
+    content: "Mommy";
+}

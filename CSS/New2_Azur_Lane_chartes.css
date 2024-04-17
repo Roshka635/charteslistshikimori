@@ -97,7 +97,7 @@
 /*Vertical poster*/
 [href*="characters/226476-"], [data-href*="characters/226476/"], [src*="characters/226476/"], [srcset*="characters/226476/"] {
   --show-default: 0;
-  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2582280.jpg);
+  --custom-image: url(https://desu.shikimori.one/system/user_images/original/1141316/2582283.jpg);
 }
 /* Horizontal poster */
 .p-profiles .cc-favourites .c-character a[href*="characters/226476-"] .image-cutter {

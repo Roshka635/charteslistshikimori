@@ -55,3 +55,22 @@
 .p-profiles .cc-favourites .c-character a[href*="203870-"] .image-cutter::before {
     content: "Like chocolate,wife";
 }
+/* Kazusa Kyoyama  */
+/*Vertical poster*/
+[href*="characters/249530-"], [data-href*="characters/249530/"], [src*="characters/249530/"], [srcset*="characters/249530/"] {
+  --show-default: 0;
+  --custom-image: url(https://desu.shikimori.one/system/user_images_h/original/b7237b6571c01342f32b62eb/5137012a46057ae093292dd616db85669f0e137486cb894e5be66948584126b4.jpg);
+}
+/* Horizontal poster */
+.p-profiles .cc-favourites .c-character a[href*="characters/249530-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images_h/original/b7237b6571c01342f32b62eb/441694f423b690e18cd527acfa652bb0bc75244cba33f562cb0d7760b94218f2.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character:hover a[href*="characters/249530-"] .image-cutter {
+    background: url(https://desu.shikimori.one/system/user_images_h/original/b7237b6571c01342f32b62eb/ab9e104244de0df0771ced61cb11dcc57eccc86bc879b41a8fb41a1a4722054e.jpg) no-repeat center / cover;
+}
+.p-profiles .cc-favourites .c-character a[href*="249530-"] .image-decor::before {
+    content: "Kazusa Kyoyama ";
+}
+.p-profiles .cc-favourites .c-character a[href*="249530-"] .image-cutter::before {
+    content: "Chartes text";
+}
